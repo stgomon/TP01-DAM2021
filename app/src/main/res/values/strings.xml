@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TP01-DAM2021</string>
+    <string name="tituloPequenio">Título</string>
+    <string name="tituloGrande">Título...</string>
+    <string name="descripcionOpcional">Descripción (opcional)</string>
+    <string name="descripcionLarga">Descripción del producto...</string>
+    <string name="correoContactoTitulo">Correo de contacto</string>
+    <string name="correoContactoIngresar">Correo electrónico...</string>
+    <string name="precioTitulo">Precio</string>
+    <string name="precioCorreoIngresar">Correo electrónico...</string>
+    <string name="categoriaTitulo">Categoría</string>
+    <string name="textoEnSwitch">Ofrecer descuento de envío</string>
 </resources>
